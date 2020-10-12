@@ -35,7 +35,7 @@ COMING SOON
 
 ### Crates
 ![Crates](https://raw.githubusercontent.com/svenhjol/Charm-Assets/master/web/charm-features/nope.png)
-Crates offer a smaller storage solution than a chest or barrel with the benefit of being transportable making it an early game alternative to shulkerboxes. 
+Crates offer a smaller storage solution than a chest or barrel with the benefit of being transportable, making it an early game alternative to shulkerboxes. 
 
 Crates are also available in all vanilla wood variants.
 
@@ -43,17 +43,17 @@ The contents can be measured using a comparator, like a vanilla chest.
 
 ### Gold Bars
 ![Gold Bars](https://raw.githubusercontent.com/svenhjol/Charm-Assets/master/web/charm-features/nope.png)
-Gold bars are crafted with gold ingots instead of the default vanilla iron recipe.
+Gold bars are crafted with gold ingots in the same shape as the vanilla iron bars recipe.
 
 If **Quark** is present, this feature is disabled by default.
 
 ### Gold Chains
 ![Gold Chains](https://raw.githubusercontent.com/svenhjol/Charm-Assets/master/web/charm-features/nope.png)
-Gold chains are crafted with gold ingots and nuggets instead of the default vanilla iron recipe.
+Gold chains are crafted with gold ingots and nuggets in the same shape as the vanilla iron chains recipe.
 
 ### Gold Lanterns
 ![Gold Lanterns](https://raw.githubusercontent.com/svenhjol/Charm-Assets/master/web/charm-features/nope.png)
-A **Gold Lantern** is crafted with gold nuggets instead of iron nuggets.
+A **Gold Lantern** is crafted with gold nuggets around a torch.
 
 The **Gold Soul Lantern** can be crafted using gold nuggets around a soul torch.
 
